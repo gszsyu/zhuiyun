@@ -23,3 +23,6 @@ https://sub.chasing.sbs:21600
 追云加速官网地址防失联发布页：https://github.com/zhuiyunjiasu/zhuiyun
 
 请加入我们的TG电报频道: https://t.me/zhuiyunjiasu666
+
+
+隐藏福利，新用户优惠券： ZYNWNW ，下单后填写 ZYNWNW，享受折扣。
