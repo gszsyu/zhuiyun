@@ -12,15 +12,13 @@
 
 iPhone小火箭客户端需要点击APP右下角设置，延迟测试方式选ICMP。
 
-追云加速最新国内免翻网址：https://x-zy.shop,用手机流量访问；(2025/5/14更新)，不定期更新
+追云加速最新国内免翻网址：https://x-zy.shop ,用手机流量访问；(2025/5/14更新)，不定期更新
 
 
 翻墙后访问的永久网址：https://zhuiyun.shop
 
 追云加速官网以及备用网址：
-
-[[https://https://sub.chasing.sbs:21600
-]()](https://sub.chasing.sbs:21600)
+https://sub.chasing.sbs:21600
 
 追云加速官网地址防失联发布页：https://github.com/zhuiyunjiasu/zhuiyun
 
