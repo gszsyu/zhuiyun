@@ -22,6 +22,6 @@ iPhone小火箭客户端需要点击APP右下角设置，延迟测试方式选IC
 [[https://https://sub.chasing.sbs:21600
 ]()](https://sub.chasing.sbs:21600)
 
-追云加速官网地址防失联发布页：https://github.com/zhuiyunjiasu/zhuiyun_web
+追云加速官网地址防失联发布页：https://github.com/zhuiyunjiasu/zhuiyun
 
 请加入我们的TG电报频道: https://t.me/zhuiyunjiasu666
